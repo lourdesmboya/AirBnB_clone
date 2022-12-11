@@ -1,1 +1,1 @@
-WebStatic for AirBnB Clone
+Static Website for AirBnB Clone

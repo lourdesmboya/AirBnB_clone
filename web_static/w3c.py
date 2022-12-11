@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-W3C validator for Holberton School
+W3C validator for ALX Software School
 For HTML and CSS files.
 Based on 2 APIs:
 - https://validator.w3.org/nu/
